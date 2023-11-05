@@ -13,7 +13,7 @@ namespace Tyuiu.ZairovAR.Sprint4.Task1.V15.Test
 
             int[] array = { 6, 7, 6, 7, 5, 7, 6, 7, 9, 4, 6, 5, 8, 5 };
             int res = ds.Calculate(array);
-            int wait = 24;
+            int wait = 41472;
             Assert.AreEqual(wait, res);
         }
     }
