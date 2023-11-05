@@ -30,7 +30,7 @@ namespace Tyuiu.ZairovAR.Sprint4.Task0.V24
 
             Console.WriteLine("Исходный массив: { 9, 5, 7, 4, 5, 3, 7, 8, 9, 1 }");
 
-            int[] array = { 9, 5, 7, 4, 5, 3, 7, 8, 9, 1 };
+            int[] array = { 9, 5, 7, 4, 5, 3, 7, 8, 9, 1  };
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
